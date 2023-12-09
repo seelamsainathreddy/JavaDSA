@@ -1,2 +1,2 @@
 # JavaDSA
-Its a Java DSA Repo
+Its a Java DSA Repository
